@@ -1,13 +1,13 @@
-package com.devsuperior.dsdeliver;
+package com.devsuperior.dsdelliver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DsdeliverApplication {
+public class DsdelliverApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DsdeliverApplication.class, args);
+		SpringApplication.run(DsdelliverApplication.class, args);
 	}
 
 }
