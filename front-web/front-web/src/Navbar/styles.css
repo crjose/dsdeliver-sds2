@@ -1,6 +1,7 @@
+
 .main-navbar {
-    height: 50px;
-    background-color: #F1B67F;
+    height: 70px;
+    background-color: #DA5C5C;
     display: flex;
     align-items: center;
 }
@@ -9,6 +10,6 @@
 font-weight: bold;
 font-size: 18px;
 line-height: 21px;
-color:#FCFBFB;
+color:#FFFFFF;
 margin-left: 15px;
 }

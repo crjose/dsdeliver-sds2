@@ -1,4 +1,4 @@
-import { type } from "os";
+    import { type } from "os";
 import { useEffect } from "react";
 
 
@@ -7,10 +7,12 @@ type Props = {
 }
 function Hello({message}:Props) {
 
-    //useEffect(() => {
+    
+
+    useEffect(() => {
 
         console.log('componente iniciou!')
-   // } ,[] );
+    } ,[] );
 
     return(
     <div>
