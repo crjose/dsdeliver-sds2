@@ -1,14 +1,15 @@
 import './App.css';
-import Home from './Home';
-import Navbar from './Navbar';
+//import Home from './Home';
+//
+import Routes from './Routes';
 
 //import Counter from './Counter';
 //montando a navbar e a home
 function App() {
   return (
             <>          
-          <Navbar/>                   
-          <Home />
+                            
+          <Routes />
             </>
   );
 }
